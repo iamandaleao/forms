@@ -12,6 +12,7 @@ Este repositório reúne os exercícios e aprendizados do curso ministrado pelo 
 ## Tecnologias usadas
 
 - HTML5
+- CSS3
 
 ## Objetivo do projeto
 
